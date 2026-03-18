@@ -1,3 +1,0 @@
-- Hello, My name is Ben Hornstein. I’m an IT Support Intern at Lake Erie College and a student in the Pro Web & Game Design program at Auburn Career Center.
-- I specialize in troubleshooting, customer support, and building clean, functional websites!
-- My plan after high school is to pursue in a Bachelor’s degree in Computer Science, and eventually work in IT Support or Software Development. I’m passionate about technology and eager to learn more every day!
